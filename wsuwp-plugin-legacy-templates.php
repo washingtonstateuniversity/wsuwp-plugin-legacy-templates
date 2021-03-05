@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WSUWP Legacy Templates
-Version: 0.0.1
+Version: 0.0.2
 Description: Add legacy template JSON feeds.
 Author: washingtonstateuniversity, Danial Bleile
 Author URI: https://github.com/washingtonstateuniversity/
