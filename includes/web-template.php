@@ -108,8 +108,6 @@ class WSUWP_Web_Template {
 		<main class="spine-page-default">
 			<header class="ucomm-bookmark">
 				<hgroup>
-					<!-- Removed ?php echo esc_html( $site_name ); ?> and placed University <span class="addGray">Communications</span> to achieve split word colors -->
-					<!-- Switched above change back to using site_name-->
 					<div class="site"><a href="<?php home_url(); ?>" title="<?php echo esc_attr( $site_name ); ?>" rel="home"><?php echo esc_html( $site_name ); ?></a></div>
 					<div class="tagline"><a href="<?php home_url(); ?>" title="<?php echo esc_attr( $site_tagline ); ?>" rel="home"><?php echo esc_html( $site_tagline ); ?></a></div>
 				</hgroup>
